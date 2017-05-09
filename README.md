@@ -1,3 +1,3 @@
 TestRepo
 ========
-\<sup\>2\</sup\>
+<sup>2</sup>
